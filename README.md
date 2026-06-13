@@ -1,4 +1,4 @@
-# Task Management API (Clean Architecture - .NET 8)
+# Task Management API 
 
 A backend Task Management REST API built with **.NET 8**
 
