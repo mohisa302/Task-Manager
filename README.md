@@ -1,6 +1,6 @@
 # Task Management API (Clean Architecture - .NET 8)
 
-A backend Task Management REST API built with **.NET 8**, following **Clean Architecture**, **CQRS (MediatR)**, and modern backend best practices.
+A backend Task Management REST API built with **.NET 8**
 
 The project demonstrates scalable architecture patterns used in real-world enterprise systems.
 
